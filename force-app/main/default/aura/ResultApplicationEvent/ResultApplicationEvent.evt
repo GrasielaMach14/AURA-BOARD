@@ -1,0 +1,4 @@
+<!-- Usará este evento no componente Board para o resultado Win or Lose -->
+<aura:event type="APPLICATION" description="Event template">
+    <aura:attribute name="result" type="String" />
+</aura:event>
